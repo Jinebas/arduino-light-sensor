@@ -37,4 +37,4 @@
 
 🔎**Maiores detalhes acerca do projeto se encontram em artigo científico disponibilizado**
 
-📃**Código de funcionamento do dispositivo em [StandardFirmata_withLightSensor.ino](https://github.com/Jinebas/arduino-light-sensor/blob/master/StandardFirmata_withLightSensor.ino)**
+📃**Código de funcionamento do dispositivo em plataforma Arduino [StandardFirmata_withLightSensor.ino](https://github.com/Jinebas/arduino-light-sensor/blob/master/StandardFirmata_withLightSensor.ino)**
