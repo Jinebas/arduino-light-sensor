@@ -18,20 +18,20 @@
 
 
 
-[arquitetura.jpg](https://github.com/Jinebas/arduino-light-sensor/blob/master/images/arquitetura.jpg)
 
+!["arquitetura"](images/arquitetura.jpg)
 
+------
 
+## **Modelo de montagem do dispositivo**
 
-
+!["modelo"](images/modelTinkerCad.jpg)
 
 ------
 
 ## **Dashboard de acompanhamento**
 
-
-
-
+!["dashboard"](images/dashboard.jpg)
 
 
 
